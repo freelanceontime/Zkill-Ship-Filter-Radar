@@ -14,8 +14,8 @@ shiptype4 = [45647,42243,19724,34339,73792,19722,73787,34341,19726,73793,34343,1
 killstream = '{"action":"sub","channel":"killstream"}'
 systemstartid = "30003335"
 jumprange = 10
-webhookchannel = "https://discord.com/api/webhooks/1044558007385722951/KQfA8QbAViUeEAubTwjtcPmnX380Vze2DK1AO-IZfXmZseDaTlRF0chfBQQrha6rgAvp"
-webhookchannel2 = "https://discord.com/api/webhooks/1044994782746919033/wJ1OiKFF0OWFvJQIcnPfwj_a4FF70T7_nvm2s3eRT3DKwsOCrQpbW3_qgXQDLPKM92Mg"
+webhookchannel = ""
+webhookchannel2 = ""
 
 def test():
     sendkill1 = False
